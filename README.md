@@ -1,3 +1,3 @@
 # DDPG_SIMPLE
 
-This is a simple example of DDDPG algorithm
+This is a simple example of DDPG algorithm
